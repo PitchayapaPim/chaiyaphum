@@ -139,7 +139,7 @@ var tourpoint = {
     {
       "type": "Feature",
       "properties": {
-        "name": "์Nong Pla Thao Park",
+        "name": "Nong Pla Thao Park",
         "type": "special",
         "level": 4.4
       },
